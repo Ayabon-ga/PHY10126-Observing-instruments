@@ -1,2 +1,2 @@
-# PHY10126-Observing-instruments
+# PHYS1026-Observing-instruments
 Essay on Observing instruments
