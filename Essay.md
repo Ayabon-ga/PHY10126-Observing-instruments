@@ -1,6 +1,8 @@
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/en/5/59/Wits_University_logo.svg" width="200">
+  <img src="wits-logo.png" width="200">
 </p>
+
+# Observing Instruments in Astronomy
 
 **Name:** Ayabonga Madani
 **Student Number:** 3135251 
