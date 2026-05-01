@@ -33,7 +33,7 @@ Space-based telescopes are telescopes that are placed outside the Earth’s atmo
 *Figure 1: Reflecting telescope.*
 
 ## Conclusion
-Write your conclusion here.
+Observing instruments play an important role in modern astronomy because they allow scientists to study celestial objects that cannot be observed clearly with the naked eye. Optical, radio and space-based telescopes each have their own advantages and are used to observe different forms of electromagnetic radiation. These instruments have improved our understanding of the structure, composition and behaviour of the universe. As technology continues to improve, observing instruments will continue to contribute to new discoveries in astronomy.
 
 ## References
 Add your sources here.
