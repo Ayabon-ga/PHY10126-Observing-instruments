@@ -17,8 +17,7 @@ Optical telescopes are instruments used to collect visible light from celestial 
 Radio telescopes are instruments used to detect radio waves coming from celestial objects in space. Unlike optical telescopes, they do not use visible light but instead use large dish-shaped antennas to collect and focus radio signals. These telescopes are usually much larger than optical telescopes because radio waves have longer wavelengths. One advantage of radio telescopes is that they can operate during both day and night and are less affected by weather conditions. Radio telescopes are important in astronomy because they help scientists study galaxies, pulsars, interstellar gas and other distant objects in the universe.
 
 ## Space Telescopes
-Explain why they are used.
-
+Space-based telescopes are telescopes that are placed outside the Earth’s atmosphere in space. These telescopes are important because the atmosphere can absorb or distort some forms of electromagnetic radiation, making observations from Earth difficult. Space telescopes are able to produce clearer images and detect wavelengths such as ultraviolet and X-rays that cannot easily reach the Earth’s surface. One well-known example is the Hubble Space Telescope, which has provided detailed images of distant galaxies, stars and planets. Space-based telescopes have greatly improved our understanding of the universe and continue to contribute to modern astronomical discoveries.
 ## Comparison of Instruments
 
 | Instrument Type | Wavelength | Advantage |
