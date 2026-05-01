@@ -12,6 +12,9 @@ Observing the universe is one of the greatest challenges faced by astronomers du
 
 ## Optical Telescopes
 Optical telescopes are instruments used to collect visible light from celestial objects using lenses and mirrors because they are able to gather and focus light from distant objects. There are two types of these telescopes, the first one being the one which uses lenses and the second one uses mirrors to detect visible light. An important feature of these telescopes is their aperture size, that is, the larger the aperture size, the higher the resolution and vice versa. The resolution of a telescope depends on the wavelength of light and the diameter of the aperture. However, optical telescopes are affected by the Earth's atmosphere, which reduces the clarity of the images.
+<p align="center">
+  <img src="optical telescope.jpg" width="200">
+</p>
 
 ## Radio Telescopes
 Radio telescopes are instruments used to detect radio waves coming from celestial objects in space. Unlike optical telescopes, they do not use visible light but instead use large dish-shaped antennas to collect and focus radio signals. These telescopes are usually much larger than optical telescopes because radio waves have longer wavelengths. One advantage of radio telescopes is that they can operate during both day and night and are less affected by weather conditions. Radio telescopes are important in astronomy because they help scientists study galaxies, pulsars, interstellar gas and other distant objects in the universe.
