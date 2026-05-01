@@ -2,8 +2,6 @@
   <img src="wits-logo.png" width="200">
 </p>
 
-# Observing Instruments in Astronomy
-
 **Name:** Ayabonga Madani
 **Student Number:** 3135251 
 **Course:** PHYS1026  
