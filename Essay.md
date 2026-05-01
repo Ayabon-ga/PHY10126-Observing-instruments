@@ -37,7 +37,7 @@ Space-based telescopes are telescopes that are placed outside the Earth’s atmo
 
 ## Figure
 <p align="center">
-  <img src="telescope.png" width="350">
+  <img src="telescope.jpg" width="350">
 </p>
 
 ## Conclusion
