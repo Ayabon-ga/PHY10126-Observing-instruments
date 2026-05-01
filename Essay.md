@@ -1,7 +1,11 @@
-# Observing Instruments in Astronomy
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/en/5/59/Wits_University_logo.svg" width="200">
+</p>
 
-## Introduction
-# Observing Instruments in Astronomy
+**Name:** Ayabonga Madani
+**Student Number:** 3135251 
+**Course:** PHYS1026  
+# Observing instruments in Astronomy
 
 ## Introduction
 Observing the universe is one of the greatest challenges faced by astronomers due to the vast distances involved and the limitations of the human eye. Most celestial objects cannot be seen clearly without the use of specialised instruments. To overcome these challenges, astronomers rely on observing instruments such as telescopes and detectors to collect and analyse radiation from celestial objects. These instruments enable scientists to study the structure, composition, and behaviour of the universe. This essay will discuss different types of observing instruments, including optical, radio, and space-based telescopes, and explain their importance in modern astronomy.
